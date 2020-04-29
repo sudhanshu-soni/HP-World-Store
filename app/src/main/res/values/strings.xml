@@ -1,0 +1,45 @@
+
+
+<resources>
+
+    <string name="app_name">HP World</string>
+
+    <string name="logo">logo</string>
+
+    <string name="description">Description</string>
+
+
+    <string name="descriptionContent">
+
+<![CDATA[As the world’s leading Technology Company, HP impacts the lives of millions of people around the world. We create new possibilities with technology to have a meaningful impact on people, businesses, governments & society and make technology work for our customers. HP aims to deliver the best experience to customers every single time - at home, at work and on the go. An experience that is differentiated and customized. HP India is the No. 1 PC and Printer brand in India.]]>
+</string>
+
+    <string name="address">Address</string>
+
+    <string name="addressContent">S 34 B, 2nd Flr, Dainik Bhaskar Mall, Electronic Market Hoshangabad Road Bhopal - 462039</string>
+
+    <string name="contactTextView">Contact</string>
+
+    <string name="mobileNumber">+918657568728</string>
+
+    <string name="business_hours">Business Hours</string>
+
+    <string name="mon">Mon : 11:30 AM - 09:30 PM</string>
+
+    <string name="tue">Tue : 11:30 AM - 09:30 PM</string>
+
+    <string name="wed">Wed : 11:30 AM - 09:30 PM</string>
+
+    <string name="thu">Thu : 11:30 AM - 09:30 PM</string>
+
+    <string name="fri">Fri : 11:30 AM - 09:30 PM</string>
+
+    <string name="sat">Sat : 11:30 AM - 09:30 PM</string>
+
+    <string name="sun">Sun : 11:30 AM - 09:30 PM</string>
+
+    <string name="business_name">Business Name</string>
+
+    <string name="hp_world_store">HP World Store</string>
+
+</resources>
